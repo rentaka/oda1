@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":false,"name":"町中人あり","order":5,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":true,"name":"町中人なし","order":6,"parentId":1,"scrollX":1258.909090909091,"scrollY":807.2727272727273},
+{"id":3,"expanded":false,"name":"家","order":7,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":4,"expanded":false,"name":"工場","order":2,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":5,"expanded":false,"name":"庭","order":8,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":6,"expanded":false,"name":"風俗","order":9,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":7,"expanded":true,"name":"test","order":11,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":8,"expanded":true,"name":"OP","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":9,"expanded":true,"name":"夜空","order":10,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":true,"name":"廊下","order":3,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":11,"expanded":false,"name":"街外","order":4,"parentId":0,"scrollX":811,"scrollY":739}
+]
