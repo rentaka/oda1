@@ -283,6 +283,186 @@
  * @param Stand_30_FileName
  * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
  *
+  * @param Stand_31_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_31_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_31_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ * 
+ * @param Stand_32_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_32_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_32_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_33_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_33_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_33_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_34_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_34_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_34_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_35_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_35_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_35_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_36_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_36_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_36_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_37_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_37_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_37_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_38_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_38_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_38_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_39_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_39_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_39_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_40_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_40_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_40_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_41_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_41_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_41_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_42_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_42_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_42_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_43_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_43_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_43_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_44_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_44_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_44_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_45_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_45_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_45_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_46_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_46_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_46_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_47_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_47_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_47_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_48_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_48_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_48_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_49_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_49_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_49_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
+ * @param Stand_50_PictureNumber
+ * @desc "立ち絵10"のピクチャ番号を指定
+ *
+ * @param Stand_50_CharacterName
+ * @desc "立ち絵10"のキャラ名を設定
+ *
+ * @param Stand_50_FileName
+ * @desc プラグインコマンドで"立ち絵10"を指定した際に呼び出す画像ファイル名
+ *
  * @help イベントコマンドの「プラグインコマンド」を使って立ち絵を表示・非表示させたり、
  *立ち絵に簡単なスライドアニメをさせます。
  *
@@ -464,7 +644,7 @@
 
 
       var SPM_NameNumber = 0;
-      for (var i = 0; i < 30; i++){
+      for (var i = 0; i < 100; i++){
         SPM_NameNumber++;
         var _Stand_CharacterName = 'Stand_' + SPM_NameNumber + '_CharacterName';
         var _Stand_FileName = 'Stand_' + SPM_NameNumber + '_FileName';

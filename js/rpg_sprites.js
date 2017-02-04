@@ -2071,15 +2071,7 @@ Sprite_Destination.prototype.update = function() {
     }
 };
 
-Sprite_Destination.prototype.createBitmap = function() {
-    var tileWidth = $gameMap.tileWidth();
-    var tileHeight = $gameMap.tileHeight();
-    this.bitmap = new Bitmap(tileWidth, tileHeight);
-    this.bitmap.fillAll('white');
-    this.anchor.x = 0.5;
-    this.anchor.y = 0.5;
-    this.blendMode = Graphics.BLEND_ADD;
-};
+Sprite_Destination.prototype.createBitmap = function() {};
 
 Sprite_Destination.prototype.updatePosition = function() {
     var tileWidth = $gameMap.tileWidth();
