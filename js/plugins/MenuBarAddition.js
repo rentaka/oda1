@@ -247,7 +247,7 @@
         document.addEventListener('mousedown', function(event) {
             if (event.button === paramClickMenu) {
                 this._clickMenu.popup(event.pageX, event.pageY);
-            }
+                }
         }.bind(this));
     };
 
